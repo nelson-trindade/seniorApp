@@ -1,0 +1,8 @@
+cidadesApp/.classpath
+.metadata/
+cidadesApp/.project
+RemoteSystemsTempFiles/.project
+.recommenders/
+cidadesApp/target/
+cidadesApp/src/test/resources/data/cidades.csv
+cidadesApp/.settings/
